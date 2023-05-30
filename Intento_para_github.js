@@ -5,3 +5,5 @@ if (n1<10){
 }else{
     document.write("El numero vale mas de 10")
 }
+//Ahora lo modifico con github
+//nueva modificacion
